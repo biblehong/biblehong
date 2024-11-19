@@ -1,6 +1,6 @@
 ## Introduction 👋
 
-Hello, I'm Bible. I'm a Data Analyst with experience in reporting, automation, and visualization, looking to gain more valuable knowledge in the role. I've worked on projects where I gather requirements, define data pipelines coming from various systems, and map the transformations before loading into the data warehouse. 
+Hello, I'm Bible. I'm a Data Analyst with experience in reporting, automation, and visualization, looking to gain more valuable knowledge in the role. I've worked on projects where I gather requirements, define data pipelines coming from various systems, and map the transformations before loading into the data warehouse. Built data marts on top of the loaded data, making them available in the business intelligence tool.
 
 ## 📕 Projects
 
@@ -13,7 +13,7 @@ Hello, I'm Bible. I'm a Data Analyst with experience in reporting, automation, a
 
 ## 🔃 In Progress
 - Portfolio Projects
-- Certification
+- Power BI Certification
 <!--
 **biblehong/biblehong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
