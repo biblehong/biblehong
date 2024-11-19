@@ -2,16 +2,16 @@
 
 Hello, I'm Bible. I'm a Data Analyst with experience in reporting, automation, and visualization, looking to gain more valuable knowledge in the role. I've worked on projects where I gather requirements, define data pipelines coming from various systems, and map the transformations before loading into the data warehouse. 
 
-# 📕 Projects
+## 📕 Projects
 
-# 🔧 Tools
+## 🔧 Tools
 - Language: SQL
 - Database: Amazon Redshift, Oracle, Microsoft SQL Server
 - Visualization: Qlik Sense, Power BI
 - Storage Service: Amazon S3
 - Automation: Qlik Nprinting, Excel Macro
 
-# 🔃 In Progress
+## 🔃 In Progress
 - Portfolio Projects
 - Certification
 <!--
