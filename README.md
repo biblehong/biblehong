@@ -11,9 +11,12 @@ Hello, I'm Bible. I'm a Data Analyst with experience in reporting, automation, a
 - Storage Service: Amazon S3
 - Automation: Qlik Nprinting, Excel Macro
 
+## 📃 Certifications
+- Microsoft Power BI Data Analyst Associate
+- Data Analyst Associate, DataCamp
+
 ## 🔃 In Progress
 - Portfolio Projects
-- Power BI Certification
 <!--
 **biblehong/biblehong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
