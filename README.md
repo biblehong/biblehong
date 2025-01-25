@@ -7,7 +7,7 @@ Hello, I'm Bible. I'm a Data Analyst with experience in reporting, automation, a
 ## 🔧 Tools
 - Language: SQL
 - Database: Amazon Redshift, Oracle, Microsoft SQL Server
-- Visualization: Qlik Sense, Power BI
+- Visualization: Qlik Sense, Power BI, Excel
 - Storage Service: Amazon S3
 - Automation: Qlik Nprinting, Excel Macro
 
